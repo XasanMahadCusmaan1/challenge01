@@ -29,8 +29,8 @@ body {
   margin: 0 auto;
 
   padding: 2em;
-  /* height: auto; */
+  /* height: auto; */ /* instruction one solved and remove the hight or make auto*/
 }
 .intro-content{
-  width: 50%;
+  width: 50%; /* instruction two solved only add the child for width 50%*/
 }
